@@ -73,12 +73,10 @@ philosophy: "Don't specialize too early — stay dangerous in many directions."
 ### 📊 Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-vaibhav&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
-  <br>
+  <img src="https://github-readme-stats-one.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=buildwith-vaibhav&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <br><br>
   <img src="https://streak-stats.demolab.com/?user=buildwith-vaibhav&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwith-vaibhav&theme=react-dark&hide_border=true" width="97%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -99,13 +97,13 @@ Real-time solved counts (Easy / Medium / Hard) and streak are pulled live by the
 
 ### 🚀 Repositories Highlight
 
-| Repo               | Description                                                                                       | Stack                          |
-|--------------------|---------------------------------------------------------------------------------------------------|--------------------------------|
-| **llm-from-scratch** | Building a language model from the ground up — tokenizer, attention, training loop, no shortcuts. | Python • PyTorch              |
-| **dsa-vault**        | A structured, ever-growing collection of DSA solutions with notes on patterns and complexity.     | Python • DSA                 |
-| **web-playground**   | A sandbox of small, polished web projects exploring UI, animation, and vanilla JS interactivity.  | HTML • CSS • JavaScript     |
-| **prompt-lab**       | Experiments in prompt engineering — structured prompting, evals, and LLM-behavior tuning.         | Prompt Engineering • LLMs    |
-| **mini-games**       | Small, self-contained game builds — logic-driven, lightweight, and fun to break.                  | JavaScript • Game Dev        |
+| Repo                 | Description                                                                                       | Stack                       |
+|----------------------|---------------------------------------------------------------------------------------------------|-----------------------------|
+| **llm-from-scratch** | Building a language model from the ground up — tokenizer, attention, training loop, no shortcuts. | Python • PyTorch           |
+| **dsa-vault**        | A structured, ever-growing collection of DSA solutions with notes on patterns and complexity.     | Python • DSA              |
+| **web-playground**   | A sandbox of small, polished web projects exploring UI, animation, and vanilla JS interactivity.  | HTML • CSS • JavaScript  |
+| **prompt-lab**       | Experiments in prompt engineering — structured prompting, evals, and LLM-behavior tuning.         | Prompt Engineering • LLMs |
+| **mini-games**       | Small, self-contained game builds — logic-driven, lightweight, and fun to break.                  | JavaScript • Game Dev     |
 
 <div align="center">
   <br>
