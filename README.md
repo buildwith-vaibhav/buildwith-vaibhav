@@ -97,13 +97,13 @@ Real-time solved counts (Easy / Medium / Hard) and streak are pulled live by the
 
 ### 🚀 Repositories Highlight
 
-| Repo                 | Description                                                                                       | Stack                       |
-|----------------------|---------------------------------------------------------------------------------------------------|-----------------------------|
-| **llm-from-scratch** | Building a language model from the ground up — tokenizer, attention, training loop, no shortcuts. | Python • PyTorch           |
-| **dsa-vault**        | A structured, ever-growing collection of DSA solutions with notes on patterns and complexity.     | Python • DSA              |
-| **web-playground**   | A sandbox of small, polished web projects exploring UI, animation, and vanilla JS interactivity.  | HTML • CSS • JavaScript  |
-| **prompt-lab**       | Experiments in prompt engineering — structured prompting, evals, and LLM-behavior tuning.         | Prompt Engineering • LLMs |
-| **mini-games**       | Small, self-contained game builds — logic-driven, lightweight, and fun to break.                  | JavaScript • Game Dev     |
+| Repo                              | Description                                                                                       | Stack                          |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------|
+| **library-database**              | A simple command-line Library Management System in Python using CSV for data storage.             | Python • CLI                   |
+| **PLAYWITHVAIBHAV**               | Small Python games — NumberBlitz (number guessing) & SerpantX (retro CRT Snake with Pygame).     | Python • Pygame • Game Dev     |
+| **first-year-Project**            | First-year collection of projects including web sites and apps (FocusPA, Library, Mellow-Cafe).   | JavaScript • HTML • CSS        |
+| **prince-video-editor-portfolio** | Cinematic dark portfolio for a video editor — React + Vite + Tailwind + Framer Motion.            | TypeScript • React • Tailwind  |
+| **LEETCODE**                      | DSA problem solutions and practice.                                                               | Python • DSA                   |
 
 <div align="center">
   <br>
