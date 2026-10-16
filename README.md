@@ -73,7 +73,7 @@ philosophy: "Don't specialize too early — stay dangerous in many directions."
 ### 📊 Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-vaibhav&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=buildwith-vaibhav&theme=radical&hide_border=true&timezone=Asia/Kolkata" width="48%" alt="GitHub Streak" />
