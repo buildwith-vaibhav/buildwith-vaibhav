@@ -1,150 +1,200 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Vaibhav%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Polymath%20%7C%20DSA%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Games&descAlignY=55&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=180&section=header&text=Vaibhav%20Tiwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Systems%20Builder&descAlignY=55&descSize=16" width="100%" />
 
   <a href="https://github.com/buildwith-vaibhav">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Solving+DSA+one+problem+at+a+time+%F0%9F%A7%A9;Building+my+own+LLM+from+scratch+%F0%9F%A4%96;Crafting+web+experiences+%F0%9F%8C%90;Building+games+for+fun+%F0%9F%8E%AE;Curious+about+everything.+Always.+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=c77dff&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+end-to-end;DSA+%E2%80%A2+LLMs+%E2%80%A2+Web+%E2%80%A2+Games;From+tokenizer+to+transformer;Curiosity+is+the+strategy" alt="Typing SVG" />
   </a>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" alt="divider" />
+  <br><br>
+
+  <a href="https://github.com/buildwith-vaibhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/with-vaibhavtiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Solve_with_Vaibhav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  &nbsp;
+  <a href="mailto:vaibhav.26bai10400@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=buildwith-vaibhav&style=flat-square&color=c77dff&label=Profile+Views" />
 </div>
 
-<br>
+---
 
-### 🪐 About Me
+### 01  ·  ABOUT
 
 ```text
-whoami: Vaibhav
-identity: Polymath — curiosity is the whole strategy
-currently:
-  - 🧩 Solving DSA problems consistently, one clean solution at a time
-  - 🤖 Building my own LLM — from tokenizer to transformer, the hard way
-  - 🌐 Building things for the web — fast, clean, and functional
-  - 🎮 Building games — because logic deserves to be fun too
-  - 🔭 Exploring wildly different fields and connecting the dots between them
-philosophy: "Don't specialize too early — stay dangerous in many directions."
+Hello, I'm Vaibhav.
+
+Aspiring AI/ML engineer & full-stack builder at VIT Bhopal.
+I build systems that hold up — from model to last pixel.
+
+Currently:
+  • Training & understanding LLMs from the ground up
+  • Solving DSA problems cleanly and consistently
+  • Shipping web apps, tools, and games that people actually use
+  • Exploring systems programming & real-world AI applications
+
+Philosophy: Don't specialize too early. Stay dangerous in many directions.
 ```
 
-<br>
+---
 
-### ⚙️ Tech Stack & Skills
+### 02  ·  SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**StockSense AI**  
+Self-hosted NSE-style stock alert system  
+`C++20 · Crow · PostgreSQL · ML scoring · Telegram`
+
+- Real-time indicators + ML confidence score  
+- Telegram alerts + web dashboard  
+- Designed for reliability under market load  
+
+[Repository →](https://github.com/buildwith-vaibhav/stocksense-ai)
+
+</td>
+<td width="50%" valign="top">
+
+**FocusPA**  
+Offline-first student productivity suite  
+`HTML · CSS · Vanilla JS · PWA`
+
+- Tasks, deadlines, Pomodoro, expenses  
+- Natural-language task add  
+- Fully offline + installable  
+
+[Repository →](https://github.com/buildwith-vaibhav/first-year-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Jarvis Voice Assistant**  
+Local voice AI agent (Phase 1)  
+`Python · Ollama · Whisper · TTS`
+
+- Laptop control, media, research tools  
+- Fully local — no cloud dependency  
+- Modular tool-calling architecture  
+
+*(Private repo)*
+
+</td>
+<td width="50%" valign="top">
+
+**Library Management System**  
+CLI library system with persistence  
+`Python · CSV`
+
+- Issue / return / search / fine calculation  
+- Clean table UI in terminal  
+- First-year systems project  
+
+[Repository →](https://github.com/buildwith-vaibhav/library-database)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SerpantX**  
+Retro CRT Snake game  
+`Python · Pygame`
+
+- Matrix-green aesthetic + scanlines  
+- Persistent leaderboard  
+- Player profiles  
+
+[Repository →](https://github.com/buildwith-vaibhav/PLAYWITHVAIBHAV)
+
+</td>
+<td width="50%" valign="top">
+
+**LEETCODE**  
+Clean DSA solutions  
+`Python`
+
+- Structured problem archive  
+- Focus on readable, optimal solutions  
+- Continuous practice  
+
+[Repository →](https://github.com/buildwith-vaibhav/LEETCODE)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 03  ·  TOOLKIT
 
 <div align="center">
 
-**Languages & Web**
+**Languages**  
+`Python` · `C++` · `JavaScript` · `TypeScript` · `HTML/CSS`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,git,linux&theme=dark" alt="Languages" />
+**AI / ML**  
+`LLMs` · `Prompt Engineering` · `PyTorch` · `Whisper` · `Ollama`
 
-<br><br>
+**Backend & Systems**  
+`Node.js` · `REST` · `PostgreSQL` · `Crow (C++)` · `Docker`
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+**Frontend**  
+`React` · `Vite` · `Tailwind` · `Vanilla JS` · `PWA`
 
-<br><br>
-
-**Core Focus Areas**
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
-<img src="https://img.shields.io/badge/Web_Development-00C7B7?style=for-the-badge&logo=webflow&logoColor=white" alt="Web Development" />
-<img src="https://img.shields.io/badge/LLM_%2F_AI_Engineering-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM / AI Engineering" />
-<img src="https://img.shields.io/badge/Game_Development-FF4500?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
-
-<br><br>
-
-**Tools & Extras**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+**Tools**  
+`Git` · `Linux` · `VS Code` · `Postman` · `GitHub Actions`
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" alt="divider" />
-
-<br>
-
-### 📊 Stats & Contributions
+### 04  ·  ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-vaibhav&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-vaibhav&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=c77dff&text_color=e0e0e0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-vaibhav&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=e0e0e0" height="165" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=buildwith-vaibhav&theme=radical&hide_border=true&timezone=Asia/Kolkata" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=buildwith-vaibhav&theme=radical&hide_border=true&background=0d0d0d&ring=c77dff&fire=c77dff&currStreakLabel=c77dff" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwith-vaibhav&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=c77dff&line=c77dff&point=ffffff" width="90%" />
 </div>
 
-<br>
+---
 
-### 🧩 LeetCode Stats — Solve_with_Vaibhav
+### 05  ·  LEETCODE
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Solve_with_Vaibhav?theme=dark&font=Baloo+2&ext=heatmap" height="165" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Solve_with_Vaibhav?theme=dark&font=Baloo+2&ext=heatmap" height="180" />
 </div>
 
-Real-time solved counts (Easy / Medium / Hard) and streak are pulled live by the card above from LeetCode's public profile data.
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" alt="divider" />
-
-<br>
-
-### 🚀 Repositories Highlight
-
-| Repo                              | Description                                                                                       | Stack                          |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------|
-| **library-database**              | A simple command-line Library Management System in Python using CSV for data storage.             | Python • CLI                   |
-| **PLAYWITHVAIBHAV**               | Small Python games — NumberBlitz (number guessing) & SerpantX (retro CRT Snake with Pygame).     | Python • Pygame • Game Dev     |
-| **first-year-Project**            | First-year collection of projects including web sites and apps (FocusPA, Library, Mellow-Cafe).   | JavaScript • HTML • CSS        |
-| **prince-video-editor-portfolio** | Cinematic dark portfolio for a video editor — React + Vite + Tailwind + Framer Motion.            | TypeScript • React • Tailwind  |
-| **LEETCODE**                      | DSA problem solutions and practice.                                                               | Python • DSA                   |
+### 06  ·  CONNECT
 
 <div align="center">
-  <br>
-  <a href="https://github.com/buildwith-vaibhav?tab=repositories">See all repositories on GitHub →</a>
+
+**Let's build something worth explaining.**
+
+<a href="mailto:vaibhav.26bai10400@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-vaibhav.26bai10400%40vitbhopal.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br><br>
+<a href="https://github.com/buildwith-vaibhav"><img src="https://img.shields.io/badge/GitHub-buildwith--vaibhav-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/with-vaibhavtiwari"><img src="https://img.shields.io/badge/LinkedIn-with--vaibhavtiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/Solve_with_Vaibhav/"><img src="https://img.shields.io/badge/LeetCode-Solve_with_Vaibhav-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<br><br>
+
+*Engineering that holds up — from the model to the last pixel.*
+
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" alt="divider" />
-
-<br>
-
-### 🔗 Connect With Me
-
 <div align="center">
-  <a href="https://github.com/buildwith-vaibhav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Solve_with_Vaibhav/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/with-vaibhavtiwari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" alt="divider" />
-
-  <br>
-
-  **Built with curiosity and code ✨**  
-  Open to collaborations & cool projects — always down to build something new.
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=buildwith-vaibhav&style=flat-square&color=8A2BE2&label=Profile+Views" alt="Profile Views" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=100&section=footer" width="100%" />
 </div>
